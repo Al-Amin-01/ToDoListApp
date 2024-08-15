@@ -1,0 +1,11 @@
+.create input{
+    width: 300px;
+    padding: 10px;
+}
+
+.create button{
+    padding: 10px;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}

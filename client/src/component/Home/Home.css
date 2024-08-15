@@ -1,0 +1,29 @@
+.home{
+    align-items: center;
+    display:flex;
+    flex-direction: column;
+
+}
+.task{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    background-color: black;
+    width: 350px;
+    padding: 10px;
+    margin-top: 10px;
+    
+}
+.checkbox{
+    
+    display: flex;
+    align-items: center;
+}
+.icon{
+    margin-right: 10px;
+    cursor: pointer;
+}
+.trash{
+    cursor: pointer;
+}
